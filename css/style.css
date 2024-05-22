@@ -1,0 +1,11 @@
+body {
+    background-color: aqua;
+}
+
+div {
+    height: 100vh;
+    display: grid;
+    justify-content: center;
+    align-content: center;
+
+}
